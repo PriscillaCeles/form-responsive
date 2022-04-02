@@ -162,7 +162,7 @@ text-decoration: none;
 }
 }
 
-@media (min-width: 1360px) {
+@media (min-width: 2200px) {
   .container-register {
     max-width: 515px;
     padding-bottom: 50px;
